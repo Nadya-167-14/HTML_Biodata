@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata Nadya Shafwah Yusuf</title>
+</head>
+<body>
+
+    <!-- Heading Utama -->
+    <h1>Biodata</h1>
+    <img src="profile.jpg" alt= "Foto Profil Nadya" width="150" height="200">
+
+    <!-- Bagian Biodata -->
+    <h2>Informasi Pribadi</h2>
+    <table border="1" cellpadding="5">
+        <tr>
+            <td><strong>Nama</strong></td>
+            <td>Nadya Shafwah Yusuf</td>
+        </tr>
+        <tr>
+            <td><strong>NIM</strong></td>
+            <td>123140167</td>
+        </tr>
+        <tr>
+            <td><strong>Tanggal Lahir</strong></td>
+            <td>22 Februari 2006</td>
+        </tr>
+        <tr>
+            <td><strong>Asal Daerah</strong></td>
+            <td>Kemiling, Bandar Lampung</td>
+        </tr>
+    </table>
+
+    <!-- Pendidikan -->
+    <h2>Pendidikan</h2>
+    <ul>
+        <li>Asal Sekolah: SMAN 14 Bandar Lampung</li>
+    </ul>
+
+    <!-- Pengalaman -->
+    <h2>Pengalaman</h2>
+    <p><i>Sedang mengeksplorasi dunia keamanan siber lewat internet dan mencari pengalaman. //masih minim pengalaman ;((</i></p>
+
+    <!-- Bagian Kontak -->
+    <h2>Kontak</h2>
+    <p>Jika ingin menghubungi saya, silakan melalui tautan di bawah ini:</p>
+    <ul>
+        <li><a href="https://wa.me/62895640238471" target="_blank">WhatsApp</a></li>
+        <li><a href="https://www.instagram.com/nadshafy/" target="_blank">Instagram</a></li>
+        <li><a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=nadya.123140167@student.itera.ac.id" target="_blank">Email</a></li>
+    </ul>
+
+
+</body>
+</html>
